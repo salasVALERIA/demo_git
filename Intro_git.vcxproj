@@ -129,6 +129,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="first.c" />
     <ClCompile Include="Source.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
